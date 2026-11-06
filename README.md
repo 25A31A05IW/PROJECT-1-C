@@ -1,1 +1,1 @@
-A simple Python mini project that identifies Online Food Ordering Simulation 
+A simple C mini project that identifies Online Food Ordering Simulation 
